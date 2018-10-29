@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Harshdeep Kanhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshdeepkanhai/portfolio.git"
+  },
+  "author": "Harshdeep Kanhai <harshdeepkanahi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshdeepkanhai/portfolio/issues"
+  },
+  "homepage": "https://harshdeepkanhai.herokuapp.com/"
+}
